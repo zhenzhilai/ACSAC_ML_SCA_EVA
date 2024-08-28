@@ -1,0 +1,35 @@
+{
+   "CelebA_jpg":{
+      "img_dir":"data/CelebA_jpg/image/",
+      "pin":"data/CelebA_jpg/pin/raw/",
+      "cacheline32":"data/CelebA_jpg/pin/cacheline32/",
+      "cacheline":"data/CelebA_jpg/pin/cacheline/",
+      "cacheline_encode":"data/CelebA_jpg/pin/raw/",
+      "pp-intel-dcache":"data/CelebA_jpg/pp_noConcat/intel-dcache/",
+      "pp-intel-icache":"data/CelebA_jpg/pp/intel-icache/",
+      "ID_path":"data/CelebA_jpg/CelebA_ID_dict.json",
+      "refiner_path":"models/pin/CelebA/refiner-final.pth",
+      "split":[
+         "train",
+         "test"
+      ],
+      "max_trace_len": 300000,
+      "num_class": 10177,
+      "image_size": 128,
+      "image_type": "jpg"
+   },
+   "CelebA_webp":{
+      "img_dir":"data/CelebA_WebP/image/",
+      "pin":"data/CelebA_WebP/pin/raw_uncomp/",
+      "cacheline_encode":"data/CelebA_WebP/pin/raw_uncomp/",
+      "ID_path":"data/CelebA_WebP/CelebA_ID_dict.json",
+      "split":[
+         "train",
+         "test"
+      ],
+      "max_trace_len": 897567,
+      "num_class": 10177,
+      "image_size": 128,
+      "image_type": "webp"
+   }
+}

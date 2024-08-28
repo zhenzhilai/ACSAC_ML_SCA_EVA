@@ -1,0 +1,9 @@
+Read from EXP_2_pretrained/test
+10
+Success rate:  0.9991 9991
+100
+Success rate:  0.9929 9929
+200
+Success rate:  0.989 9890
+500
+Success rate:  0.9849 9849
