@@ -6,6 +6,8 @@ In this repo, we provide experiment results of this paper, evaluation scripts an
 
 We provide an introduction of each experiment in the Artifact Appendix.
 
+The [Google drive](https://drive.google.com/drive/u/1/folders/1oyqViKeu3LpqDGozCDVpA70OewqAJQSB) contains all the necessary data to replicate our experiments. More details will be explained in each Folders's.
+
 ## Folders
 ### 0-evaluation-utils
 We provide evaluation scripts that analyze the face-matching rate and the distinguishability evaluation.
