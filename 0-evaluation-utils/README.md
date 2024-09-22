@@ -4,9 +4,9 @@
 ### Query Face++ API
 We use script ```face_similarity.py``` to compute the face-matching rate of a reconstructed image and its reference image. 
 The results are stored in a file.
-You may need to register an account at https://www.faceplusplus.com.
+You will need to register an account at https://www.faceplusplus.com, and paste the key and secret at Line 72 and 73 in ```face_similarity.py```.
 
-If you have a new API key, you need to first configure the API key and secret in ```face_similarity.py```. Then, run:
+After configuring the API, you should run the following command to compute the Face++ evaluation score:
 ```bash
 python3 face_similarity.py [input_folder_path] [output_face++_result_csv_file] [number_of_tested_images] [reference_folder_path] [if_print]
 ```
