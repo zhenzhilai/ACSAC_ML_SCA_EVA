@@ -11,7 +11,7 @@ The [Google drive](https://drive.google.com/drive/u/1/folders/1oyqViKeu3LpqDGozC
 ## Folders
 For verifying, reproducing, and replicating our results, please go to '1-reproduce', '2-replicate', '3-ablation_study/ablation_study_x' and '4-practical_prime-probe' and follow:
 - Verify: please go to sub-directory '/paper_results' (i.e., 1-reproduce/paper_results) and follow the instructions in its README.md.
-- Reproduce: please go to sub-directory '/experiments' (i.e. 1-reproduce/paper_results) and follow the instructions in its README.md 'Reconstruct the images from pre-trained models'. Note that it is a simple reconstruction. To compute the evaluation results, you need to use similar commands stated in '/paper_results' and modify the 'input_folder_path' to the newly reconstructed images or cache activities.
+- Reproduce: please go to sub-directory '/experiments' (i.e. 1-reproduce/paper_results) and follow the instructions in its README.md 'Reconstruct the images from pre-trained models'. Note that it only reconstruct images or cache activities. To compute the evaluation results, you need to use similar commands stated in '/paper_results' and modify the 'input_folder_path' to the newly reconstructed images or cache activities.
 - Replicate: please go to sub-directory '/experiments' (i.e. 1-reproduce/paper_results) and follow the instructions in its README.md 'Re-train the model from scratch'. Note that it is a simple training and reconstruction. To compute the evaluation results, you need to use similar commands stated in '/paper_results' and modify the 'input_folder_path' to the newly reconstructed images or cache activities.
 
 ### 0-evaluation-utils
