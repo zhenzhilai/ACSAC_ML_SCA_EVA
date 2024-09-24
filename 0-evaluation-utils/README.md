@@ -40,7 +40,7 @@ We use script ```Pearson_similarity.py``` to perform the distinguishability eval
 ```bash
 python3 Pearson_similarity.py [input_folder_path] [reference_folder_path] [number_of_tested_images] > [output_result_file]
 ```
-- **input_folder_path:** the folder path storing the reconstructed images.
-- **reference_folder_path:** the folder path storing the reference images.
+- **input_folder_path:** the folder path storing the reconstructed cache activities.
+- **reference_folder_path:** the folder path storing the reference cache activities.
 - **number_of_tested_images:** number. The number of images you want to test.
 - **output_result_file:** the file storing the distinguishability result
