@@ -2,7 +2,7 @@
 
 
 ## Reconstruct the images from pre-trained models
-Download pre-trained models and data 'reproduce_models_and_data.tar' from [Goolge Drive](https://drive.google.com/drive/folders/1oyqViKeu3LpqDGozCDVpA70OewqAJQSB?usp=sharing). Extract it there.
+Download pre-trained models and data 'reproduce_models_and_data.tar' by unzip 'artifact_data.tar' from [ZENODO] (https://zenodo.org/records/13937963). Extract it there.
 ```bash
 tar -xvf reproduce_models_and_data.tar
 ```

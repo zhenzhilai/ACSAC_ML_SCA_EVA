@@ -1,7 +1,7 @@
 # Ablation Study 1
 
 ## Reconstruct the images from pre-trained models
-Download pre-trained models 'ablation1_pretrain.tar' and data 'Celeba_image.tar', 'WB-NUM-data.tar' from [Goolge Drive](https://drive.google.com/drive/folders/1oyqViKeu3LpqDGozCDVpA70OewqAJQSB?usp=sharing). Extract it to corresponding directory.
+Download pre-trained models 'ablation1_pretrain.tar' and data 'Celeba_image.tar', 'WB-NUM-data.tar' by unzip 'artifact_data.tar' from [ZENODO] (https://zenodo.org/records/13937963). Extract it to corresponding directory.
 ```bash
 mkdir model
 tar -xvf ablation1_pretrain.tar -C ./model

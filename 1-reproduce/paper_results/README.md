@@ -11,7 +11,7 @@ python3 ../../0-evaluation-utils/analyze_face++.py results/CelebA_intel_dcache_r
 ```
 
 ## If you want to recompute the results
-Download our images 'reproduce_images.tar' from [Goolge Drive](https://drive.google.com/drive/folders/1oyqViKeu3LpqDGozCDVpA70OewqAJQSB?usp=sharing). Extract it there.
+Download our images 'reproduce_images.tar' by unzip 'artifact_data.tar' from [ZENODO] (https://zenodo.org/records/13937963). Extract it there.
 ```bash
 tar -xvf reproduce_images.tar
 ```
