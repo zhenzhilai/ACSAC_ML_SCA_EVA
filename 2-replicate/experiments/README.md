@@ -1,7 +1,7 @@
 # Replicate Manifold-SCA
 
 ## Reconstruct the images from pre-trained models
-Download pre-trained models 'replicate_pretrain.tar' and data 'Celeba_image.tar', 'manifold_cacheline.tar', 'manifold_l1dpp_cacheline.tar' by unzip 'artifact_data.tar' from [ZENODO] (https://zenodo.org/records/13937963). Extract it to corresponding directory.
+Download pre-trained models 'replicate_pretrain.tar' and data 'Celeba_image.tar', 'manifold_cacheline.tar', 'manifold_l1dpp_cacheline.tar' by unzip 'artifact_data.tar' from [ZENODO](https://zenodo.org/records/13937963). Extract it to corresponding directory.
 ```bash
 mkdir model
 tar -xvf replicate_pretrain.tar -C ./model

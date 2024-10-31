@@ -1,7 +1,7 @@
 # Ablation Study 3
 
 ## Reconstruct the images from pre-trained models
-Download pre-trained models 'ablation3_pretrain.tar' and data 'Celeba_image.tar', 'BB-NUM-data.tar', 'BB-OH-data.tar' by unzip 'artifact_data.tar' from [ZENODO] (https://zenodo.org/records/13937963). Extract it to corresponding directory.
+Download pre-trained models 'ablation3_pretrain.tar' and data 'Celeba_image.tar', 'BB-NUM-data.tar', 'BB-OH-data.tar' by unzip 'artifact_data.tar' from [ZENODO](https://zenodo.org/records/13937963). Extract it to corresponding directory.
 ```bash
 mkdir model
 tar -xvf ablation3_pretrain.tar -C ./model

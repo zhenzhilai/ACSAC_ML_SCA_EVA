@@ -6,7 +6,7 @@ In this repo, we provide experiment results of this paper, evaluation scripts an
 
 We provide an introduction of each experiment in the Artifact Appendix.
 
-The [ZENODO] (https://zenodo.org/records/13937963) contains all the necessary data to replicate our experiments. Generally speaking, 'ACSAC_ML_SCA_EVA.tar' contains the github codes, and 'artifact_data.tar' contains all necessary data we collected. More details will be explained in each Folders's.
+The [ZENODO](https://zenodo.org/records/13937963) contains all the necessary data to replicate our experiments. Generally speaking, 'ACSAC_ML_SCA_EVA.tar' contains the github codes, and 'artifact_data.tar' contains all necessary data we collected. More details will be explained in each Folders's.
 
 ## Folders
 Our experiments and results are divided into four sections and are storing in folders '1-reproduce', '2-replicate', '3-ablation_study/ablation_study_x' and '4-practical_prime-probe' separately. For verifying, reproducing, and replicating our results, please choose one section you are interested and follow:
